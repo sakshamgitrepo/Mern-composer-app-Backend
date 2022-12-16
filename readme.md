@@ -1,4 +1,4 @@
-# Goalsetter MERN app backend
+# Goal Composer MERN app backend
 
 This is the goalsetter app Backend server
 
