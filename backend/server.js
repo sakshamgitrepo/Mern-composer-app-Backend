@@ -12,11 +12,11 @@ connectDB();
 const app = express();
 
 app.use(cors({
-  origin: ['http://localhost:3000','https://goalcomposer.netlify.app'] 
+  origin: ['http://localhost:3000','https://goalsetandexecute.netlify.app'] 
 }));
 
 app.get("/", (req, res) => {
-  res.send("Mern Goal setter server running");
+  res.send("Mern Goal set&execute server running");
 })
 
 app.use(express.json());
