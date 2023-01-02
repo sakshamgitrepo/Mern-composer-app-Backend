@@ -1,8 +1,8 @@
 ## Frontend Repository: https://github.com/sakshamgitrepo/goal-setnexecute-frontend 
 
-# Goal Composer MERN app backend
+# Goal Set&Execute MERN app backend
 
-This is the goalsetter app Backend server
+This is the Goal set&execute app Backend server
 
 ## Usage
 
