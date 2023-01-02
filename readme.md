@@ -12,5 +12,7 @@ add .env file and add your MONGO_URI
 # Backend deps
 npm install
 
+
+
 ## Frontend Repository: https://github.com/sakshamgitrepo/goal-setnexecute-frontend 
 
